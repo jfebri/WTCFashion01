@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WTCFashion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_kid">About Kidz</string>
+    <string name="kid1">Kidz Station merupakan store yang terletak di WTC Batanghari lantai 1, menjualan berbagai perlengkapan untuk anak Seperti pakaian, Mainan, perlengakapan sekolah DLL.</string>
+    <string name="gio1">Giordano merupakan store yang terletak di WTC Batanghari latai dasar, menjual berbagai macam pakaian pria dan wanita</string>
+    <string name="gio2">dengan harga yang bervariasi.</string>
+    <string name="ss1">Sport Station merupakan store yang terletak di WTC Batanghari lantai 1, menjual berbagai macam perlengkapan olahraga seperti sepatu,baju,pakaian,tas DLL</string>
+   <string name="ss2">dengan berbagai merek dan harga yang bervariasi.</string>
+    <string name="title_activity_gio">About Giordano</string>
+    <string name="title_activity_ss">About Sport Station</string>
+
+</resources>
